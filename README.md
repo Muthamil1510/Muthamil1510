@@ -1,5 +1,7 @@
 Hi, I'm MUTHAMIL 👋👩‍💻
+
 Software Developer @Hcltech
+
 🎓 Completed BE @ Saranathan College of Engineering
 
 🌟 Passionate about coding, problem-solving, and crafting efficient software solutions
