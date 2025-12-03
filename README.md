@@ -1,5 +1,6 @@
 Hi, I'm MUTHAMIL 👋👩‍💻
-🎓 4th-year Electronics & Communication Engineering student @ Saranathan College of Engineering
+Software Developer @Hcltech
+🎓 Completed BE @ Saranathan College of Engineering
 
 🌟 Passionate about coding, problem-solving, and crafting efficient software solutions
 
